@@ -1,4 +1,4 @@
-# ACAT2022-The-Awkward-World-of-Python-and-CPP
+# The Awkward World of Python and C++
 
 There are undeniable benefits of binding Python and C++ to take advantage of the best features of both languages. This is especially relevant to the HEP and other scientific communities that have invested heavily in the C++ frameworks and are rapidly moving their data analyses to Python.
 

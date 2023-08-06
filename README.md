@@ -15,3 +15,6 @@ This submission represents our evolving view of best practices for creating Awkw
 ## Contribution Links
 - arXiv - [The Awkward World of Python and C++](https://doi.org/10.48550/arXiv.2303.02205)
 - ACAT website - [The Awkward World of Python and C++](https://indico.cern.ch/event/1106990/contributions/4991252/)
+
+## Publications
+To be published in _Journal of Physics: Conference Proceedings_
